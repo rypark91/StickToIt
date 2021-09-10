@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+
+button{
+  background-color: skyblue;
+  border: none;
+  border-radius: 6px;
+  width: 80px;
+  height: 25px;
+  margin: 0px 10px;
+}
+button:hover{
+  border: blue 2px solid;
+}
+
+

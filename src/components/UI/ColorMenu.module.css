@@ -1,0 +1,51 @@
+.colorMenu{
+    width: 375px;
+    height: 100px;
+    background-color: cadetblue;
+    margin: 10px auto;
+    border-radius: 14px;
+}
+.colorSquare{
+    width: 10px;
+    height: 10px;
+    margin: 0 3px;
+    border: black solid 1px;
+    display: inline-block;
+}
+.currentColor{
+    width: 40px;
+    height: 40px;
+    margin: 0 3px;
+    border: black solid 1px;
+    display: inline-block;
+}
+.colorSquare:hover{
+    border: 3px black solid;
+}
+.pink{
+    background-color: pink;
+}
+.magenta{
+    background-color: magenta;
+}
+.orange{
+    background-color: orange;
+}
+.yellow{
+    background-color: yellow;
+}
+.limeGreen{
+    background-color: limegreen;
+}
+.lightBlue{
+    background-color: lightblue;
+}
+.lightPurple{
+    background-color: violet;
+}
+.white{
+    background-color: white;
+}
+.beige{
+    background-color: beige;
+}
